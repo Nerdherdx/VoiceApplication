@@ -2,4 +2,8 @@
 
 Voice command application using annyang API. 
 
-For testing, say 'Go to' + website name. 
+
+List of commands for testing. Example:
+'Go to' + website name. 
+'Search for' + movies 
+
