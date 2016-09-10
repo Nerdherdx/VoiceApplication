@@ -7,3 +7,5 @@ List of commands for testing. Example:
 'Go to' + website name. 
 'Search for' + movies 
 
+Features to come: 
+Twitter implentation. 
