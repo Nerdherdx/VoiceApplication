@@ -37,16 +37,15 @@ if (annyang) {
         });
         console.log(tag);
     };
-    /*  var number = function(number){
+      var number = function(number){
      P
-
      };
-     */
+
 
     var commands = {
         'Go to *tag': website,
         'Search for *search': search,
-        // 'Call *number': number
+        'Call *number': number
 
 
 
